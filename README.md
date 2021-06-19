@@ -37,7 +37,8 @@ What would you like to do? 1
 -+-+-
  | | 
 
-It's your turn X. Do you want to make a (1) classical move, (2) quantum move, (3) collapse?, or (4) quit?
+It's your turn X. 
+Do you want to make a (1) classical move, (2) quantum move, (3) collapse?, or (4) quit?
 1
 
 Which location? (1-9) 1
@@ -69,7 +70,8 @@ X| |
 -+-+-
  | | 
 
-It's your turn O. Do you want to make a (1) classical move, (2) quantum move, (3) collapse?, or (4) quit?
+It's your turn O. 
+Do you want to make a (1) classical move, (2) quantum move, (3) collapse?, or (4) quit?
 2
 
 Which location? (1-9) 
@@ -104,7 +106,8 @@ X|O|O
 -+-+-
  | | 
 
-It's your turn X. Do you want to make a (1) classical move, (2) quantum move, (3) collapse?, or (4) quit?
+It's your turn X. 
+Do you want to make a (1) classical move, (2) quantum move, (3) collapse?, or (4) quit?
 2
 
 Which location? (1-9) 
@@ -139,7 +142,8 @@ X|X|
 -+-+-
  | | 
 
-It's your turn O. Do you want to make a (1) classical move, (2) quantum move, (3) collapse?, or (4) quit?
+It's your turn O. 
+Do you want to make a (1) classical move, (2) quantum move, (3) collapse?, or (4) quit?
 2
 
 Which location? (1-9) 
@@ -174,7 +178,8 @@ X|X|O
 -+-+-
 O| | 
 
-It's your turn X. Do you want to make a (1) classical move, (2) quantum move, (3) collapse?, or (4) quit?
+It's your turn X. 
+Do you want to make a (1) classical move, (2) quantum move, (3) collapse?, or (4) quit?
 2
 
 Which location? (1-9) 
@@ -239,7 +244,8 @@ X| |O
 -+-+-
  | |X
 
-It's your turn O. Do you want to make a (1) classical move, (2) quantum move, (3) collapse?, or (4) quit?
+It's your turn O. 
+Do you want to make a (1) classical move, (2) quantum move, (3) collapse?, or (4) quit?
 1
 
 Which location? (1-9) 3
@@ -271,7 +277,8 @@ X| |O
 -+-+-
  | |X
 
-It's your turn X. Do you want to make a (1) classical move, (2) quantum move, (3) collapse?, or (4) quit?
+It's your turn X. 
+Do you want to make a (1) classical move, (2) quantum move, (3) collapse?, or (4) quit?
 1
 
 Which location? (1-9) 7
