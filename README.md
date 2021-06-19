@@ -350,4 +350,8 @@ Game Over.
 Play Again?(y/n) 
 ```
 
-Disclaimer: The output from the quantum computer isn't always correct.
+## Disclaimer
+
+The output from the quantum computer isn't always correct.
+
+Use simulator for accuracy and the quantum computer for novelty.
