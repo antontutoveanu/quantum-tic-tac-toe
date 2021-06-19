@@ -354,4 +354,4 @@ Play Again?(y/n)
 
 The output from the quantum computer isn't always correct.
 
-Use simulator for accuracy and the quantum computer for novelty.
+Use the simulator for accuracy while the quantum computer is for novelty.
