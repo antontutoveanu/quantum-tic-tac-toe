@@ -1,4 +1,4 @@
-A 'quantum' version of tic tac toe that can be run on one of IBM's quantum computers (or simulated on your local machine).
+A 'quantum' version of tic tac toe that can run on IBM's quantum computer (or simulated on your local machine).
 
 Requires 9 qubits.
 
@@ -16,7 +16,7 @@ python3 IBM.py
 ```
 
 Example output of a game:
-```bash
+```
 
     ###########################
     ### Quantum Tic-Tac-Toe ###
