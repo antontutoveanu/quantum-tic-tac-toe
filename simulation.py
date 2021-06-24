@@ -135,7 +135,7 @@ def measure(circuit, theBoard, count):
 
   print(circuit.draw())
 
-  # Execute the circuit on real quantum computer
+  # Execute the circuit on quantum simulator
   job = qiskit.execute(circuit, simulator, shots=1)
 
   # Grab results from the job
